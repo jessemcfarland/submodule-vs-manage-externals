@@ -1,0 +1,1 @@
+# submodule-vs-manage-externals
