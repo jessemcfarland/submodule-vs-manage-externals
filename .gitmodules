@@ -1,0 +1,3 @@
+[submodule "regional_workflow"]
+	path = regional_workflow
+	url = https://github.com/NOAA-EMC/regional_workflow
