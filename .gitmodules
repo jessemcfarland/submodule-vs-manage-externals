@@ -7,3 +7,6 @@
 [submodule "src/ufs-weather-model"]
 	path = src/ufs-weather-model
 	url = https://github.com/ufs-community/ufs-weather-model
+[submodule "src/UPP"]
+	path = src/UPP
+	url = https://github.com/NOAA-EMC/UPP
