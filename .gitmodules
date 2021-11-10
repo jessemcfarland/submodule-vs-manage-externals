@@ -4,3 +4,6 @@
 [submodule "src/UFS_UTILS"]
 	path = src/UFS_UTILS
 	url = https://github.com/ufs-community/UFS_UTILS
+[submodule "src/ufs-weather-model"]
+	path = src/ufs-weather-model
+	url = https://github.com/ufs-community/ufs-weather-model
