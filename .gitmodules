@@ -1,3 +1,6 @@
 [submodule "regional_workflow"]
 	path = regional_workflow
 	url = https://github.com/NOAA-EMC/regional_workflow
+[submodule "src/UFS_UTILS"]
+	path = src/UFS_UTILS
+	url = https://github.com/ufs-community/UFS_UTILS
